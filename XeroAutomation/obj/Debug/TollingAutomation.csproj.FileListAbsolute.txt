@@ -1,0 +1,14 @@
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\chromedriver.exe
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\IEDriverServer.exe
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\TollingAutomation.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\TollingAutomation.pdb
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\Protractor.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\WebDriver.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\WebDriver.Support.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\Protractor.pdb
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\Protractor.xml
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\WebDriver.xml
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\bin\Debug\WebDriver.Support.xml
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\obj\Debug\TollingAutomation.csprojResolveAssemblyReference.cache
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\obj\Debug\TollingAutomation.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingAutomation\obj\Debug\TollingAutomation.pdb

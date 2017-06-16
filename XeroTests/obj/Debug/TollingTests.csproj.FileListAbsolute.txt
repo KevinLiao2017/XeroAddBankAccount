@@ -1,0 +1,16 @@
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\chromedriver.exe
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\IEDriverServer.exe
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\TollingTests.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\TollingTests.pdb
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\TollingAutomation.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\WebDriver.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\Protractor.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\WebDriver.Support.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\TollingAutomation.pdb
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\WebDriver.xml
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\Protractor.pdb
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\Protractor.xml
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\bin\Debug\WebDriver.Support.xml
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\obj\Debug\TollingTests.csprojResolveAssemblyReference.cache
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\obj\Debug\TollingTests.dll
+C:\TFS\KevinI\NZTA.Enterprise\Trunk\src\TransactionalWebsite-PCI\AutomatedTests\TollingAutomation\TollingTests\obj\Debug\TollingTests.pdb
