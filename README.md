@@ -1,0 +1,2 @@
+# XeroAddBankAccount
+AutomationTest for XeroAddBandAccount
