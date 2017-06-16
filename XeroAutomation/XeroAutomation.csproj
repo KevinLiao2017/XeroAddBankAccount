@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="CasualTransactionPages\AddBankAccountProcessPage.cs" />
     <Compile Include="CasualTransactionPages\BankAccountsPage.cs" />
-    <Compile Include="HelperMethods\SQLServer.cs" />
     <Compile Include="HelperMethods\Driver.cs" />
     <Compile Include="CasualTransactionPages\DashboardPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
